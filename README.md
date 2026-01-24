@@ -58,7 +58,18 @@ Young, passionate about programming, highly ambitious, and driven to make an imp
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apache%20kafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon%20aws&logoColor=white)
 
-
+#### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0288D1?style=flat&logo=agile&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=flat&logo=githubactions&logoColor=white)
+![REST](https://img.shields.io/badge/API%20Design-FF6C37?style=flat&logo=swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 ---
 
