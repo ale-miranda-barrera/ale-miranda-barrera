@@ -1,6 +1,4 @@
-# Alejandro Miranda
-
-<img width="1024" height="512" alt="baner" src="https://github.com/user-attachments/assets/595457f7-69af-44e2-b1a1-f1ebc244be0e" />
+<img width="912" height="491" alt="baner cut" src="https://github.com/user-attachments/assets/7d95aedc-5249-4d23-9820-af86d73d15db" />
 
 ## Full Stack Developer | 7+ Years Experience
 
@@ -50,5 +48,4 @@ Strong DevOps mindset with hands-on experience in **CI/CD pipelines**, container
 * 🌍 English B1+ Certification (2024)
 
 ---
-
 *Focused on writing clean, scalable code and building systems that last.*
