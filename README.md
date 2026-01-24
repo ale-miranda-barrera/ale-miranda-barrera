@@ -56,7 +56,8 @@ Young, passionate about programming, highly ambitious, and driven to make an imp
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apache%20kafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20SQS-FF9900?style=flat&logo=amazon%20aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon%20aws&logoColor=white)
+
 
 
 ---
