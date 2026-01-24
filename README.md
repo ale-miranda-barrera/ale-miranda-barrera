@@ -5,6 +5,7 @@
 Building scalable, high-performance applications that serve millions.
 
 Passionate about programming, highly ambitious, and driven to make an impact in the tech world by building clean, scalable, and well-architected solutions.
+
 ---
 
 ## 💻 Tech Stack
