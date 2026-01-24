@@ -10,20 +10,15 @@ Young, passionate about programming, highly ambitious, and driven to make an imp
 
 ## 💻 Tech Stack
 
-**Frontend**
-React, Next.js, TypeScript, HTML5, CSS3, styled-components, MUI
+Frontend: React · Next.js · TypeScript · HTML5 · CSS3 · styled-components · MUI
 
-**Backend**
-Node.js, NestJS, Express.js, REST APIs, JWT, WebSockets, Microservices
+Backend: Node.js · NestJS · Express.js · REST APIs · JWT · WebSockets · Microservices
 
-**Databases**
-MongoDB, MySQL, Oracle, SQL Server
+Databases: MongoDB · MySQL · Oracle · SQL Server
 
-**Testing & QA**
-Playwright, Jest, Selenium, Postman
+Testing & QA: Playwright · Jest · Selenium · Postman
 
-**DevOps & Tools**
-Docker, Kubernetes, GitHub Actions, Grafana, Prometheus, RabbitMQ, Kafka, AWS SQS
+DevOps & Tools: Docker · Kubernetes · GitHub Actions · Grafana · Prometheus · RabbitMQ · Kafka · AWS SQS
 
 ---
 
