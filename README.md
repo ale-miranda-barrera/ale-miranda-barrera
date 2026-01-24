@@ -3,9 +3,7 @@
 ## Full Stack Developer | 7+ Years Experience
 
 Building scalable, high-performance applications that serve millions.
-
-Young, passionate about programming, highly ambitious, and driven to make an impact in the tech world through clean, scalable, and well-architected solutions.
-
+Passionate about programming, highly ambitious, and driven to make an impact in the tech world by building clean, scalable, and well-architected solutions.
 ---
 
 ## 💻 Tech Stack
