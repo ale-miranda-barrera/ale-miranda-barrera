@@ -1,97 +1,68 @@
-<img width="912" height="491" alt="baner cut" src="https://github.com/user-attachments/assets/7d95aedc-5249-4d23-9820-af86d73d15db" />
+<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/7d95aedc-5249-4d23-9820-af86d73d15db" />
 
-## Full Stack Developer | 7+ Years Experience
+<div align="center">
 
-Building scalable, high-performance applications that serve millions.
+# Hi, I'm Juan Alejandro 👋
 
-Passionate about programming, highly ambitious, and driven to make an impact in the tech world by building clean, scalable, and well-architected solutions.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=700&lines=Full+Stack+%26+Cloud+Engineer;AI-Driven+Development+with+Claude+Code;Serverless+%26+Event-Driven+Architectures+on+AWS;Distributed+Systems+%26+Third-Party+Integrations" alt="Typing SVG" /></a>
 
----
+**8+ years building resilient, cloud-native systems — now supercharged with AI agents.**
 
-## 💻 Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-alejandro-miranda-barrera-a57b14167/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ale.miranda.barrera@gmail.com)
+![Location](https://img.shields.io/badge/Medellín,_Colombia-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-### 🛠 Tech Skills
-
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=rest%20api&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-
-
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-003545?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat&logo=typeorm&logoColor=white)
-![PL%2FSQL-336791?style=flat&logo=oracle&logoColor=white](https://img.shields.io/badge/PL%2FSQL-336791?style=flat&logo=oracle&logoColor=white)
-
-
-#### Testing & QA
-![Playwright](https://img.shields.io/badge/Playwright-333333?style=flat&logo=playwright&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)
-
-
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github%20actions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apache%20kafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon%20aws&logoColor=white)
-
-#### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat&logo=scrumalliance&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0288D1?style=flat&logo=agile&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=flat&logo=githubactions&logoColor=white)
-![REST](https://img.shields.io/badge/API%20Design-FF6C37?style=flat&logo=swagger&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+</div>
 
 ---
 
-## Professional Profile
+## 🧠 About Me
 
-Full Stack Developer with over **7 years of experience** building scalable and high-performance web applications. Strong expertise in **TypeScript** and robust architectural standards such as **Clean Architecture**, **SOLID**, and **Clean Code**, ensuring maintainable and long-term solutions across the entire stack.
+```ts
+const juan = {
+  role: "Full Stack & Cloud Engineer",
+  experience: "8+ years",
+  focus: ["AI-Driven Development", "AWS Serverless", "Distributed Systems"],
+  architecture: ["Hexagonal", "Clean Architecture", "Event-Driven", "Microfrontends"],
+  aiWorkflow: ["Claude Code", "Orchestrator Agents", "Harnesses", "MCPs"],
+  principles: ["SOLID", "Clean Code", "Design Patterns", "Resilience First"],
+  languages: { spanish: "Native", english: "B2" },
+};
+```
 
-On the frontend, highly proficient in **React** and **Next.js**, applying modern patterns like Hooks, Context API, and SSR/CSR. Experienced in performance optimization, JWT-based authentication, and UI development with modern component libraries.
+I design and ship **mission-critical systems** where stability is non-negotiable: serverless and event-driven architectures on **AWS**, integrations with **distributed systems and third-party services** (REST, SOAP, webhooks), and full stack products with **React, Node.js, and TypeScript**.
 
-On the backend, specialized in **Node.js**, **NestJS**, and **Express**, building complex REST APIs, microservices, ETL processes, and real-time systems. Extensive experience integrating relational and NoSQL databases and external services.
+---
 
-Strong DevOps mindset with hands-on experience in **CI/CD pipelines**, containerization, monitoring, and automated testing, always focused on system stability and continuous improvement.
+## 🤖 How I Build with AI
+
+AI is not a side tool in my workflow — it's the engine. I work with **orchestrator agents that coordinate specialized sub-agents** to plan, implement, review, and test code, extended with **MCPs** and custom **harnesses** that connect them to real tools and context.
+
+```mermaid
+flowchart LR
+    A[🎯 Task] --> B[🧠 Orchestrator Agent<br/>Claude Code]
+    B --> C[📐 Planning Agent]
+    B --> D[⚙️ Implementation Agent]
+    B --> E[🔍 Review Agent]
+    B --> F[🧪 Testing Agent]
+    C & D & E & F --> G[🔌 MCPs + Harness<br/>repos · AWS · docs · tools]
+    G --> H[🚀 Production-ready delivery]
+```
+
+<div align="center">
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![AI Agents](https://img.shields.io/badge/Multi--Agent_Orchestration-412991?style=for-the-badge&logo=probot&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-111827?style=for-the-badge&logo=anthropic&logoColor=white)
+![Harness](https://img.shields.io/badge/Agent_Harnesses-0EA5E9?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
 
 ---
 
-## 🎓 Knowledge & Certifications
+## 🚀 Highlights
 
-* 🟦 TypeScript Complete Guide (2024)
-* 🟪 Automated Web Testing with Playwright (2024)
-* 🟩 SOLID Principles & Clean Code (2023)
-* 🟨 Node.js from Zero to Expert (2023)
-* 🌍 English B1+ Certification (2024)
-
----
-*Focused on writing clean, scalable code and building systems that last.*
+| | Company | Impact |
+|:-:|---|---|
+| ☁️ | **Melonn** · Full Stack & Cloud Engineer | Mission-critical courier integrations for a fulfillment platform across **Colombia, Mexico, and Chile**, built on a **resilient, event-driven AWS architecture** where every release demanded maximum stability. |
+| 📬 | **Talent.com** · Full Stack Developer | Scaled a notification system to **4–5 million emails
